@@ -1,0 +1,8 @@
+README.md
+main.py
+pyproject.toml
+orc.egg-info/PKG-INFO
+orc.egg-info/SOURCES.txt
+orc.egg-info/dependency_links.txt
+orc.egg-info/requires.txt
+orc.egg-info/top_level.txt

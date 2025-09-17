@@ -1,0 +1,85 @@
+{
+    "application_for_employing_professionals_in_hong_kong": {
+        "employing_company_in_hong_kong": {
+            "particulars_of_employing_company": {
+                "company_name": "Chamber Orchestra",
+                "authorised_person_contact_person": "Max Chan",
+                "email_address": "max.ccohk@gmail.com",
+                "website": "www.chamberorchestra.com",
+                "company_address": "Flat 15, 15/F, Some where over the Rainbow",
+                "correspondence_address": "Flat 15, 15/F, Some where over the Rainbow",
+                "contact_telephone_no": "98761234",
+                "ext": "",
+                "fax_no": "",
+                "business_registration_certificate_no": "44162368",
+                "date_of_commencement_of_business": "01/01/2000",
+                "nature_of_business": "Performing Arts",
+                "parent_company_details": "null"
+            },
+            "position_details_offered": {
+                "employee_name": {
+                    "surname": "Douglas",
+                    "given_names": "Barry"
+                },
+                "post_title": "Guest Artist",
+                "intra_company_transfer": "No",
+                "monthly_salary_hkd": "58765",
+                "other_fringe_benefits": "null",
+                "approximate_total_value_fringe_benefits_per_month_hkd": "null",
+                "total_value_remuneration_package_per_month_hkd": "null",
+                "talent_list_profession": "null",
+                "annual_salary_over_2_million_hkd": "false",
+                "job_duties_description": "null",
+                "existing_position_qualifications_and_salary": "N/A",
+                "justification_for_employment": "null"
+            },
+            "financial_standing": {
+                "stock_code": "null",
+                "turnover_past_2_years": [
+                    {
+                        "year": "2023/2024",
+                        "value_hkd_thousands": "null"
+                    },
+                    {
+                        "year": "2022/2023",
+                        "value_hkd_thousands": "null"
+                    }
+                ],
+                "paid_up_capital_hkd_thousands": "null"
+            },
+            "current_staffing": {
+                "as_at_date": "18-Jan-2025",
+                "professional_managerial_supervisory_staff": {
+                    "local": "null",
+                    "non_local": "null"
+                },
+                "other_staff": {
+                    "local": "null",
+                    "non_local": "null"
+                }
+            },
+            "information_on_employing_non_local_staff": {
+                "visa_obtained_past_24_months": {
+                    "status": "null",
+                    "reference_no": "null"
+                },
+                "worker_import_application_past_18_months": {
+                    "status": "null",
+                    "reference_no": "null",
+                    "post_title": "null",
+                    "date_of_application": "null",
+                    "application_result": "null",
+                    "number_of_workers_applied": "null"
+                }
+            }
+        },
+        "employing_company_statement_and_declaration": {
+            "repatriation_domicile": "United Kingdom",
+            "authorised_person_details": {
+                "name": "Max Chan",
+                "post_title": "Director",
+                "date": "18-Jan-2025"
+            }
+        }
+    }
+}

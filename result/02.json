@@ -1,0 +1,85 @@
+{
+    "application_for_employing_professionals_in_hong_kong": {
+        "employing_company_in_hong_kong": {
+            "particulars_of_employing_company": {
+                "company_name": "City Chamber Orchestra Limited",
+                "authorised_person_contact_person": "Mr. Douglas",
+                "email_address": "douglas@orchestra.com",
+                "website": "www.cityorchestra.com",
+                "company_address": "123 Music Avenue, Central, Hong Kong",
+                "correspondence_address": "123 Music Avenue, Central, Hong Kong",
+                "contact_telephone_no": "12345678",
+                "ext": "123",
+                "fax_no": "98765432",
+                "business_registration_certificate_no": "12345678",
+                "date_of_commencement_of_business": "01/01/2023",
+                "nature_of_business": "Orchestral Music Production",
+                "parent_company_details": "N/A"
+            },
+            "position_details_offered": {
+                "employee_name": {
+                    "surname": "Douglas",
+                    "given_names": "Mr."
+                },
+                "post_title": "Piano Masterclass",
+                "intra_company_transfer": "N/A",
+                "monthly_salary_hkd": "N/A",
+                "other_fringe_benefits": "N/A",
+                "approximate_total_value_fringe_benefits_per_month_hkd": "N/A",
+                "total_value_remuneration_package_per_month_hkd": "N/A",
+                "talent_list_profession": "N/A",
+                "annual_salary_over_2_million_hkd": "false",
+                "job_duties_description": "Mr. Douglas will be engaged in education and will give a public piano masterclass presented by City Chamber Orchestra in 21 Sep 2025.",
+                "existing_position_qualifications_and_salary": "N/A",
+                "justification_for_employment": "He is a world-renowned pianist who established his flourishing international career after winning the Gold Medal at the prestigious 1986 Tchaikovsky International Piano Competition."
+            },
+            "financial_standing": {
+                "stock_code": "8768",
+                "turnover_past_2_years": [
+                    {
+                        "year": "2023/2024",
+                        "value_hkd_thousands": "5124"
+                    },
+                    {
+                        "year": "2024/2025",
+                        "value_hkd_thousands": "2355"
+                    }
+                ],
+                "paid_up_capital_hkd_thousands": "8768"
+            },
+            "current_staffing": {
+                "as_at_date": "01/01/2025",
+                "professional_managerial_supervisory_staff": {
+                    "local": "N/A",
+                    "non_local": "N/A"
+                },
+                "other_staff": {
+                    "local": "N/A",
+                    "non_local": "N/A"
+                }
+            },
+            "information_on_employing_non_local_staff": {
+                "visa_obtained_past_24_months": {
+                    "status": "N/A",
+                    "reference_no": "N/A"
+                },
+                "worker_import_application_past_18_months": {
+                    "status": "N/A",
+                    "reference_no": "N/A",
+                    "post_title": "N/A",
+                    "date_of_application": "N/A",
+                    "application_result": "N/A",
+                    "number_of_workers_applied": "N/A"
+                }
+            }
+        },
+        "employing_company_statement_and_declaration": {
+            "repatriation_domicile": "United Kingdom",
+            "authorised_person_details": {
+                "name": "Mr. Douglas",
+                "post_title": "Piano Masterclass",
+                "date": "01 MON 2025"
+            }
+        }
+    }
+}

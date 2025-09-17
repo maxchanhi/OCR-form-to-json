@@ -1,0 +1,85 @@
+{
+    "application_for_employing_professionals_in_hong_kong": {
+        "employing_company_in_hong_kong": {
+            "particulars_of_employing_company": {
+                "company_name": "Company Name",
+                "authorised_person_contact_person": "Authorised Person's Name",
+                "email_address": "company.email@example.com",
+                "website": "www.companywebsite.com",
+                "company_address": "Company's Full Address, including building, street, district",
+                "correspondence_address": "Company's Correspondence Address (if different from company address)",
+                "contact_telephone_no": "Telephone Number",
+                "ext": "Extension (if any)",
+                "fax_no": "Fax Number",
+                "business_registration_certificate_no": "Business Registration Certificate Number",
+                "date_of_commencement_of_business": "DD/MM/YYYY",
+                "nature_of_business": "Description of Business Nature",
+                "parent_company_details": "Parent company name and address (if the employing company is a subsidiary)"
+            },
+            "position_details_offered": {
+                "employee_name": {
+                    "surname": "Employee's Surname",
+                    "given_names": "Employee's Given Names"
+                },
+                "post_title": "Job Title / Post",
+                "intra_company_transfer": "No",
+                "monthly_salary_hkd": "Monthly Salary in HKD",
+                "other_fringe_benefits": "Description of other fringe benefits, e.g., housing allowance, medical, share options, etc.",
+                "approximate_total_value_fringe_benefits_per_month_hkd": "Approximate monthly value of fringe benefits in HKD",
+                "total_value_remuneration_package_per_month_hkd": "Total monthly remuneration package value in HKD",
+                "talent_list_profession": "Profession from the Talent List, if applicable",
+                "annual_salary_over_2_million_hkd": "false",
+                "job_duties_description": "Detailed description of the employee's job duties and responsibilities",
+                "existing_position_qualifications_and_salary": "If the post is an existing one, provide the current qualifications required and salary offered. Otherwise, enter 'N/A'",
+                "justification_for_employment": "Justification for hiring the applicant and reasons why the position cannot be filled by a local candidate."
+            },
+            "financial_standing": {
+                "stock_code": "Stock Code if the company is listed on the Hong Kong Stock Exchange",
+                "turnover_past_2_years": [
+                    {
+                        "year": "YYYY/YYYY",
+                        "value_hkd_thousands": "Turnover value in thousands of HKD"
+                    },
+                    {
+                        "year": "YYYY/YYYY",
+                        "value_hkd_thousands": "Turnover value in thousands of HKD"
+                    }
+                ],
+                "paid_up_capital_hkd_thousands": "Paid-up capital in thousands of HKD"
+            },
+            "current_staffing": {
+                "as_at_date": "DD/MM/YYYY",
+                "professional_managerial_supervisory_staff": {
+                    "local": "Number of local staff",
+                    "non_local": "Number of non-local staff"
+                },
+                "other_staff": {
+                    "local": "Number of other local staff",
+                    "non_local": "Number of other non-local staff"
+                }
+            },
+            "information_on_employing_non_local_staff": {
+                "visa_obtained_past_24_months": {
+                    "status": "No",
+                    "reference_no": "Application Reference Number (if Yes)"
+                },
+                "worker_import_application_past_18_months": {
+                    "status": "No",
+                    "reference_no": "Application Reference Number (if Yes)",
+                    "post_title": "Applied Post Title (if Yes)",
+                    "date_of_application": "Date of Application (if Yes)",
+                    "application_result": "Approved / Not approved (if Yes)",
+                    "number_of_workers_applied": "Number of workers applied for (if Yes)"
+                }
+            }
+        },
+        "employing_company_statement_and_declaration": {
+            "repatriation_domicile": "Applicant's Place of Domicile, e.g., United Kingdom",
+            "authorised_person_details": {
+                "name": "Authorised Person's Name",
+                "post_title": "Authorised Person's Post Title",
+                "date": "DD MON YYYY"
+            }
+        }
+    }
+}
