@@ -47,7 +47,7 @@ You need to have Ollama installed to run the multimodal model.
 To run the OCR process, execute the `fill.py` script from the root of the project:
 
 ```bash
-python orc/fill.py
+uv run fill.py
 ```
 
 The script will:
