@@ -51,6 +51,6 @@ uv run fill.py
 ```
 
 The script will:
-1. Process all images in the `orc/img/` directory.
-2. Use the `qwen2.5vl` model to extract information based on the template in `orc/json_template/`.
-3. Save the extracted JSON data into the `orc/result/` directory.
+1. Process all images in the `img/` directory.
+2. Use the `qwen2.5vl` model to extract information based on the template in `json_template/`.
+3. Save the extracted JSON data into the `result/` directory.
